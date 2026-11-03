@@ -5,7 +5,8 @@ The current implementation centers on a Michelson-Morley interferometer and comp
 - a classical stationary-ether model
 - a special-relativity model
 
-This project is intentionally separated from Unreal Engine: the physics logic lives in a pure C++ core that can be tested, benchmarked, and reused independently, while an Unreal Engine 5 plugin exposes the same calculations to Blueprints and a real-time development preview.
+<img width="939" height="646" alt="Screenshot 2026-11-02 223321" src="https://github.com/user-attachments/assets/4140f5c6-8063-40c2-96fb-bf6890c4ea2b" />
+
 
 ## Why this project exists
 
